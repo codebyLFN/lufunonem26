@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lufuno</h1>
 <h3 align="center">A passionate software developer from South Africa.</h3>
 
-- 🌱 I’m currently learning **Android Developments**
+- 🌱 I’m currently learning **Android & Oracle**
 
 - 👨‍💻 All of my projects are available at [https://github.com/codebyLFN](https://github.com/codebyLFN)
 
